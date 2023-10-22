@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700593843371",
+    "project_id": "galleryskin-2bf84",
+    "storage_bucket": "galleryskin-2bf84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700593843371:android:0c8fc8dbcce7a00ab41bee",
+        "android_client_info": {
+          "package_name": "com.example.skingallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700593843371-tne2orvdht0luggvgtvg5foat28tuune.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6abC4F_rXKRxNDvSXhf764FzGwZ1dPq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700593843371-tne2orvdht0luggvgtvg5foat28tuune.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
